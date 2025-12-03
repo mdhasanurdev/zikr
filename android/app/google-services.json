@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "341241130846",
+    "project_id": "zikr-7572c",
+    "storage_bucket": "zikr-7572c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341241130846:android:18f4aca7d1c830269769cf",
+        "android_client_info": {
+          "package_name": "com.example.zikr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDflX7Tq9UFBWBXirWz4kx64QIspu6r7sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
